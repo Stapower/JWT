@@ -1,0 +1,9 @@
+tablas:
+
+USUARIO		ROL		TIPO ROL
+nombre		id		Id
+apellido	idRol		Descripcion
+mail		idUsuario
+pass
+usuario
+habilitado
